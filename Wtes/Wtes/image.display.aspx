@@ -10,7 +10,7 @@
 <body>
     <form id="form1" runat="server" enctype="multipart/form-data">
         <div>
-            图片：<asp:Image ID="Image1" runat="server" Height="257px" Width="420px" />
+            图片显示：<asp:Image ID="Image1" runat="server" Height="257px" Width="420px" />
             <br />
             
 
